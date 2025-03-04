@@ -1,2 +1,3 @@
-# Advanced-Financial-Fraud-ModelDetection
-The Advanced Fraud Detection Model is a data analytics project designed to detect and prevent financial fraud effectively. Leveraging machine learning algorithms, it analyzes transaction patterns, user behavior, and h
+# Advanced-Financial-Fraud-Model-Detection
+
+The Advanced Fraud Detection Model is a data analytics project designed to detect and prevent financial fraud effectively. Leveraging machine learning algorithms, it analyzes transaction patterns, user behavior, and historical data to classify transactions as legitimate or fraudulent. The real-time dashboard provides interactive visualizations and insights. enabling users to moitor risks and analyze trends. Built using Python with libraries like Scikit-learn, TensorFlow, and Flask, this system ensures robust fraud detection while supporting data-driven decision-making.
